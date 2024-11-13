@@ -10,3 +10,7 @@ documentation = "https://docs.rs/anchal"
 keywords = ["networking", "transport", "protocol-agnostic"]
 
 [dependencies]
+quinn = "0.11.5"
+thiserror = "2.0.3"
+async-trait = "0.1.83"
+tokio = { version = "1.41.1", features = ["full"] }
