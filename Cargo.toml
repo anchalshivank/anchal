@@ -1,0 +1,12 @@
+[package]
+name = "anchal"
+version = "0.1.0"
+edition = "2021"
+authors = ["Shivank Anchal <anchalshivank99@gmail.com>"]
+description = "A protocol-agnostic transport layer for Rust"
+license = "Apache-2.0"
+repository = "https://github.com/anchalshivank/anchal"
+documentation = "https://docs.rs/anchal"
+keywords = ["networking", "transport", "protocol-agnostic"]
+
+[dependencies]
